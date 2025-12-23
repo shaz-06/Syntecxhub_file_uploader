@@ -5,6 +5,8 @@ This project demonstrates practical frontend development skills, UI/UX design pr
 
 ---
 
+## 🔗 Live Demo: https://syntecxhub-file-uploader.vercel.app/
+
 ## 🚀 Key Features
 - File upload simulation with user feedback
 - Drag-and-drop file upload functionality
