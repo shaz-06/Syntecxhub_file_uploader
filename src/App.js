@@ -253,7 +253,7 @@ const App = () => {
             <div className="bg-indigo-600 p-2 rounded-xl shadow-lg">
               <FileCode size={22} className="text-white" />
             </div>
-            <span className="font-bold text-xl tracking-tight">GridFlow <span className="text-indigo-600 font-black italic">PRO</span></span>
+            <span className="font-bold text-xl tracking-tight">File <span className="text-indigo-600 font-black italic">Uploader</span></span>
           </div>
 
           <div className="hidden md:flex items-center gap-10">
